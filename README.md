@@ -1,2 +1,2 @@
 # puppet_control_repo
-related to puppet 
+related to puppet deployment
